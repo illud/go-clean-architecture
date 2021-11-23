@@ -1,0 +1,2 @@
+domain\useCase\tasks\tasks-useCase.go:5:2: no required module provides package github.com/saturnavt/clean-architecture/infraestructure/util/errors; to add it:
+	go get github.com/saturnavt/clean-architecture/infraestructure/util/errors
